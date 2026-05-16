@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 local Config = {
-	LibraryUrl = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/RobloxHomeUILib.lua",
+	LibraryUrl = "https://raw.githubusercontent.com/V1trixz/UILIBRARY/refs/heads/main/UILIB.lua",
 	Username = "admin",
 	Password = "123",
 	DiscordLink = "discord.gg/example",
